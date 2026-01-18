@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /payment
+Disallow: /admin
+
+Sitemap: https://kickora.com/sitemap.xml
